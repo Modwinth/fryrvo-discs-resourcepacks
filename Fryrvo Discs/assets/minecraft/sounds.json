@@ -1,0 +1,11 @@
+{
+  "music_disc.cat": {
+    "sounds": [
+      {
+        "name": "records/cat",
+        "stream": true,
+        "volume": 2
+      }
+    ]
+  }
+}
